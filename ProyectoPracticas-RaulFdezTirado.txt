@@ -1,0 +1,6 @@
+/**
+Como se dice en el zip, la aplicación puede reproducir archivos que no esten en el directorio raíz de la web, 
+pero se adjuntan ficheros de audio y video dentro del directorio raíz para su prueba.
+**/
+
+https://drive.google.com/file/d/142Xey54CpkrI8tr6Bmtkc85NQ7Y1YFKn/view?usp=sharing
