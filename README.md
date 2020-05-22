@@ -7,10 +7,6 @@
 ### Aplicacion web con reproductor personalizado de video y audio, JS, jQuery y HTML5
 ***
 
-# Tic Tec - 2020
-
-***
-
 #### Información
 
 ***
