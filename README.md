@@ -21,6 +21,6 @@ propia.
 
 ***
 
-![img1](img/ssmm.png)
+![img1](img/ssmm.jpg)
 
 ***
