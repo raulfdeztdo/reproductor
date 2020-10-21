@@ -32,14 +32,14 @@
     </div>
   </div>
   <div class="row">
-    <div class="col jumbo-izq" style="background-image: url('img/video-jumbotron.jpg'); background-attachment: fixed; ">
+    <div class="col jumbo-izq" style="background-image: url('img/video-jumbotron.jpg'); background-attachment: fixed; padding: 0 !important">
       <div class="rojo" id="rojo">
         <center>
           <p class="titulocat">Reproducto de video</p>
           <center>
       </div>
     </div>
-    <div class="col jumbo-der" style="background-image: url('img/audio-jumbotron.jpg'); background-attachment: fixed; background-repeat: no-repeat;background-position:60% 10%;">
+    <div class="col jumbo-der" style="background-image: url('img/audio-jumbotron.jpg'); background-attachment: fixed; background-repeat: no-repeat;background-position:60% 10%; padding: 0 !important">
       <div class="rojo2" id="rojo2">
         <center>
           <p class="titulocat">Reproductor de audio</p>

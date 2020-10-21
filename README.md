@@ -20,7 +20,3 @@ Tiene un diseño moderno, sencillo y simple de utlizar, creado con Bootstrap 4 y
 propia.
 
 ***
-
-![img1](img/ssmm.jpg)
-
-***

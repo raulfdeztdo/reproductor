@@ -28,21 +28,6 @@ $(document).ready(function() {
     $('#audio-screen').css({"display": "block"});
   });
 
-
-  $( "#rojo" ).mouseenter(function() {
-    $( this ).css({"background-color": "rgba(253,227,227,0.5)"});
-  })
-  .mouseleave(function() {
-    $( this ).css({"background-color": "rgba(253,227,227,0.0)"});
-  });
-
-  $( "#rojo2" ).mouseenter(function() {
-    $( this ).css({"background-color": "rgba(253,227,227,0.5)"});
-  })
-  .mouseleave(function() {
-    $( this ).css({"background-color": "rgba(253,227,227,0.0)"});
-  });
-
   $( "#rojo" ).click(function() {
     $("#form-audio").css({"display": "none"});
     $("#form-video").css({"display": "block"});
